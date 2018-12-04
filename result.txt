@@ -1,0 +1,4 @@
+Total weight : 840
+Sweets sorted in gift : [Sweet{name='FIZZY_BOOM', weight=5}, Sweet{name='RACHKY', weight=7}, Sweet{name='JOHNNY_KROCKER_choco', weight=10}, Sweet{name='SHALENA_BDZHILKA_FRUTTI', weight=12}, Sweet{name='KO-KO_CHOCO_DARK', weight=13}, Sweet{name='JOLLIES', weight=14}, Sweet{name='LISHCHYNA', weight=17}, Sweet{name='Shokolad_Did_Moroz', weight=30}, Sweet{name='Shokoladnyy_baton', weight=50}, Sweet{name='YAMMI_GUMMI_Galaxy_life', weight=100}]
+Found sweet : Sweet{name='RACHKY', weight=7}
+Found sweets with weight from 5 to 10 : [Sweet{name='FIZZY_BOOM', weight=5}, Sweet{name='RACHKY', weight=7}, Sweet{name='JOHNNY_KROCKER_choco', weight=10}]

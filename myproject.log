@@ -1,0 +1,9 @@
+2018-12-02 18:30:41  INFO main Initial:getNewGift:42 - New kid gift created : Gift{name='Children's gift', sweets={Sweet{name='SHALENA_BDZHILKA_FRUTTI', weight=12}=4, Sweet{name='FIZZY_BOOM', weight=5}=4, Sweet{name='Chervonyy_Mak', weight=12}=4, Sweet{name='LISHCHYNA', weight=17}=4, Sweet{name='Shokoladnyy_baton', weight=50}=1, Sweet{name='YAMMI_GUMMI_Galaxy_life', weight=100}=4, Sweet{name='JOLLIES', weight=14}=4, Sweet{name='RACHKY', weight=7}=4, Sweet{name='JOHNNY_KROCKER_choco', weight=10}=4, Sweet{name='KO-KO_CHOCO_DARK', weight=13}=4, Sweet{name='Shokolad_Did_Moroz', weight=30}=1}}
+2018-12-02 18:31:11  INFO main Manager:run:43 - Total weight : 840
+2018-12-02 18:31:43 ERROR main Manager:run:35 - Incorrect data
+2018-12-02 18:32:05  INFO main Manager:run:48 - Sweets sorted in gift : [Sweet{name='FIZZY_BOOM', weight=5}, Sweet{name='RACHKY', weight=7}, Sweet{name='JOHNNY_KROCKER_choco', weight=10}, Sweet{name='SHALENA_BDZHILKA_FRUTTI', weight=12}, Sweet{name='KO-KO_CHOCO_DARK', weight=13}, Sweet{name='JOLLIES', weight=14}, Sweet{name='LISHCHYNA', weight=17}, Sweet{name='Shokolad_Did_Moroz', weight=30}, Sweet{name='Shokoladnyy_baton', weight=50}, Sweet{name='YAMMI_GUMMI_Galaxy_life', weight=100}]
+2018-12-02 18:32:36 ERROR main Manager:run:57 - There is no such sweet.
+2018-12-02 18:33:05  INFO main Manager:run:55 - Found sweet : Sweet{name='RACHKY', weight=7}
+2018-12-02 18:33:45  INFO main Manager:run:70 - Found sweets with weight from 5 to 10 : [Sweet{name='FIZZY_BOOM', weight=5}, Sweet{name='RACHKY', weight=7}, Sweet{name='JOHNNY_KROCKER_choco', weight=10}]
+2018-12-02 18:34:19  INFO main Manager:run:78 - Object successfully serialized.
+2018-12-02 18:35:14  INFO main Manager:run:83 - The application has been stopped.
